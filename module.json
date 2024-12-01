@@ -24,7 +24,7 @@
   },
   "url": "https://github.com/cjdhein/fvtt-EasyTable",
   "manifest": "https://raw.githubusercontent.com/cjdhein/fvtt-EasyTable/refs/heads/master/module.json",
-  "download": "",
+  "download": "https://github.com/cjdhein/fvtt-EasyTable/releases/download/v12/fvtt.EasyTable.release.zip",
   "media": [
     {
       "type": "cover",
